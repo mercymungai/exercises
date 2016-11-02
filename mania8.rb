@@ -1,6 +1,5 @@
 class Integer
-	def==getschomp;
-	def_to_eng
+   def_to_eng
 	if self == 5
 		english = 'five' 
 	else

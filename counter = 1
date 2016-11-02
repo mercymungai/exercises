@@ -1,0 +1,4 @@
+counter = 1
+untill counter > 10
+puts counter 
+counter +=1ssssssssssss
